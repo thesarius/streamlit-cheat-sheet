@@ -415,7 +415,7 @@ st.toast('Mr Stay-Puft')
 st.error('Error message')
 st.warning('Warning message')
 st.info('Info message')
-st.success('Success message')
+st.success('Success message or not')
 st.exception(e)
     ''')
 
